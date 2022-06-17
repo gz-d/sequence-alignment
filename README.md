@@ -1,1 +1,2 @@
 # sequence-alignment
+This is the group project I did with two other students when I took CSCI570 Analysis of Algorithms in Spring 2022 at USC. In this project, we built two algorithms (i.e. basic and memory-efficient) to find out the alignment with minimum cost, given two genetic sequences consisting of A, T, C and G. For more details regarding this project, please refer to the project descriptions.
